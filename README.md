@@ -5,8 +5,8 @@ Practice space for using the Github Workflow.
 
 Participants:
 Ben Coleman
-David Marrero
-Derek Allmon
+David Marrero:
+Derek Allmon:
 
 
 ## Setup
